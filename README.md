@@ -1,6 +1,6 @@
 # Next.js Introduction Workshop
 
-This repository contains the demo project built during a workshop on **Introduction to Next.js**, organized with **Women Tech Club**.
+This repository contains the demo project built for a workshop on **Introduction to Next.js**, organized with **Women Tech Club**.
 
 ---
 
